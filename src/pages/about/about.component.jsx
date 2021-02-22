@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "./about.styles.css";
-import Profile from "../../assets/img/profile/profile.webp";
+import Profile from "../../assets/img/profile/IMG_2129.jpg";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 
@@ -21,15 +21,15 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-                Hi there! I am <strong>&nbsp;Anand Kumar Jha</strong>
-                <br />A passionate programmer and a Coach, born and brought up in India. I am a Full Stack Web Developer with React.js, Redux, Express.js, Node.js, and PostgreSQL as my tech stack.
+                Hi there! I am <strong>&nbsp;Anthony Loredo</strong>
+                <br />A passionate programmer and musician, born and brought up in Central Florida. I am a Full Stack Web Developer with React.js, Redux, Express.js, Node.js, and MongoDB as my tech stack. My full name is Richard Anthony Loredo but I have always used the name Anthony.
                 <br />
-                In 2019, I successfully completed my Engineering with specialization in 'Electronics and Telecommunication'.
+                In March 2021, I will have successfully completed my Coding certificate with Ucf Coding Boot Camp in the specification of Web Developement.
                 <br />
-                Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
+                I have a strong passion for problem solving and building new projects using the technologies given to me through the median of coding.
                 <br />
-                Along with that, I also help people as a COACH on their journey of becoming a professional programmer. 
-                <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
+                Along with that, I also help complete feelance work to better strengthen my skills and develop new ones. 
+                <br />I love learning about new technologies, what problems are they solving, and how I can use them to build anything I set my mind to.
                 <br /> <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
@@ -47,14 +47,14 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="https://github.com/akjha96" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/anthonyloredo5" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-dark">
                         GitHub
                       </Button>
                     </a>
                   </div>
                   <div>
-                    <a href="https://www.linkedin.com/in/anand-kumar-jha-745798a4/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/anthony-loredo-27805a18a/" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-info">
                         LinkedIn
                       </Button>
