@@ -8,4 +8,4 @@ This my portfolio built using react.
 
 ## Link to Deployed Application 
 
-
+https://anthonyloredo5.github.io/Portfolio-12/
