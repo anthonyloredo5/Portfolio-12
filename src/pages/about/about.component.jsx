@@ -26,7 +26,7 @@ const About = () => {
                 <br />
                 In March 2021, I will have successfully completed my Coding certificate with Ucf Coding Boot Camp in the specification of Web Developement.
                 <br />
-                I have a strong passion for problem solving and building new projects using the technologies given to me through the median of coding.
+                I have a strong passion for problem solving and building new projects using the technologies given to me through the medium of coding.
                 <br />
                 Along with that, I also help complete feelance work to better strengthen my skills and develop new ones. 
                 <br />I love learning about new technologies, what problems are they solving, and how I can use them to build anything I set my mind to.
