@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36d4de9ae23e979ca264e4859d35b45a",
+    "revision": "ed60f14de4ba11d5a61c19d2d8914ae5",
     "url": "/Portfolio-12/index.html"
   },
   {
-    "revision": "a92f7312fdcdc4e5f245",
+    "revision": "637d043def506b318416",
     "url": "/Portfolio-12/static/css/main.8657729f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio-12/static/js/2.7c905e34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a92f7312fdcdc4e5f245",
-    "url": "/Portfolio-12/static/js/main.81e6d394.chunk.js"
+    "revision": "637d043def506b318416",
+    "url": "/Portfolio-12/static/js/main.16c52c1c.chunk.js"
   },
   {
     "revision": "f6003bc5f870405cd53e",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fa505fa5320a68dde0ee4ca21ef39df7",
     "url": "/Portfolio-12/static/media/BEACHINIT.fa505fa5.png"
-  },
-  {
-    "revision": "1192b14b3930889d8123eff1c24d2c76",
-    "url": "/Portfolio-12/static/media/IMG_2129.1192b14b.jpg"
   },
   {
     "revision": "6021308b0976bb23efcb9831a200b58b",
@@ -90,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a123152868245dee71c441124a98ac3e",
     "url": "/Portfolio-12/static/media/nodejs.a1231528.svg"
+  },
+  {
+    "revision": "6d46e67b91ae362cbcd9c83bf81ea1c9",
+    "url": "/Portfolio-12/static/media/profile.6d46e67b.JPG"
   },
   {
     "revision": "83fe61b05935f090b671b08aeb77b63d",

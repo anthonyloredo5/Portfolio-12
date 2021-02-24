@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/Portfolio-12/static/css/main.8657729f.chunk.css",
-    "main.js": "/Portfolio-12/static/js/main.81e6d394.chunk.js",
-    "main.js.map": "/Portfolio-12/static/js/main.81e6d394.chunk.js.map",
+    "main.js": "/Portfolio-12/static/js/main.16c52c1c.chunk.js",
+    "main.js.map": "/Portfolio-12/static/js/main.16c52c1c.chunk.js.map",
     "runtime-main.js": "/Portfolio-12/static/js/runtime-main.3a90a582.js",
     "runtime-main.js.map": "/Portfolio-12/static/js/runtime-main.3a90a582.js.map",
     "static/js/2.7c905e34.chunk.js": "/Portfolio-12/static/js/2.7c905e34.chunk.js",
     "static/js/2.7c905e34.chunk.js.map": "/Portfolio-12/static/js/2.7c905e34.chunk.js.map",
     "index.html": "/Portfolio-12/index.html",
-    "precache-manifest.3e144b1970903098da90ee510419e58d.js": "/Portfolio-12/precache-manifest.3e144b1970903098da90ee510419e58d.js",
+    "precache-manifest.1b161a7c0ae491964ca70f598045c323.js": "/Portfolio-12/precache-manifest.1b161a7c0ae491964ca70f598045c323.js",
     "service-worker.js": "/Portfolio-12/service-worker.js",
     "static/css/main.8657729f.chunk.css.map": "/Portfolio-12/static/css/main.8657729f.chunk.css.map",
     "static/js/2.7c905e34.chunk.js.LICENSE.txt": "/Portfolio-12/static/js/2.7c905e34.chunk.js.LICENSE.txt",
     "static/media/BEACHINIT.png": "/Portfolio-12/static/media/BEACHINIT.fa505fa5.png",
-    "static/media/IMG_2129.jpg": "/Portfolio-12/static/media/IMG_2129.1192b14b.jpg",
     "static/media/OHMYGIFT.png": "/Portfolio-12/static/media/OHMYGIFT.6021308b.png",
     "static/media/POSTITGAMES.png": "/Portfolio-12/static/media/POSTITGAMES.ce982cc8.png",
     "static/media/background.webp": "/Portfolio-12/static/media/background.bf989778.webp",
@@ -29,6 +28,7 @@
     "static/media/material-ui-1.svg": "/Portfolio-12/static/media/material-ui-1.82291019.svg",
     "static/media/mongodb.svg": "/Portfolio-12/static/media/mongodb.2985235d.svg",
     "static/media/nodejs.svg": "/Portfolio-12/static/media/nodejs.a1231528.svg",
+    "static/media/profile.JPG": "/Portfolio-12/static/media/profile.6d46e67b.JPG",
     "static/media/react-bootstrap.svg": "/Portfolio-12/static/media/react-bootstrap.83fe61b0.svg",
     "static/media/react-router.svg": "/Portfolio-12/static/media/react-router.02419671.svg",
     "static/media/react.svg": "/Portfolio-12/static/media/react.4009eef3.svg",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.3a90a582.js",
     "static/js/2.7c905e34.chunk.js",
     "static/css/main.8657729f.chunk.css",
-    "static/js/main.81e6d394.chunk.js"
+    "static/js/main.16c52c1c.chunk.js"
   ]
 }
