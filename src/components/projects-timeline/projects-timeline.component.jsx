@@ -60,7 +60,7 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> Almost anyone can agree that getting your life organized can be a daunting task! There are so many things we are supposed to do and accomplish to be successful! Our app allows you to work towards your best self by tracking the things that matter to you, and making your life easier. Input your workouts, water intake, personal goals, and even write out your to-do list! And for some motivation, we provided you with some random quotes to boost your moral and get you going. The opportunities to become a better version of yourself are endless with ezlife. 
+                        <strong>Description:</strong> Almost anyone can agree that getting your life organized can be a daunting task! There are so many things we are supposed to do and accomplish to be successful! Our app allows you to work towards your best self by tracking the things that matter to you, and making your life easier. Input your workouts, water intake, personal goals, and even write out your to-do list! And for some motivation, we provided you with some random quotes to boost your moral and get you going. The opportunities to become a better version of yourself are endless with ezlife.
                         <hr />
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">
@@ -419,6 +419,39 @@ This web application pulls from a random user API to generate an employee direct
                                 className="image-style m-1"
                               ></Image>{" "}
                               HTML5
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_CSS3}
+                                alt="CSS 3"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              CSS3
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_NODE_JS}
+                                alt="Node.js"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              Node.js
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_REACT}
+                                alt="React"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              React
                             </span>
                           </li>
                         </ul>
