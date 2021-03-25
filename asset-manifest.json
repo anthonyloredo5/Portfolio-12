@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio-12/static/css/main.8657729f.chunk.css",
-    "main.js": "/Portfolio-12/static/js/main.16c52c1c.chunk.js",
-    "main.js.map": "/Portfolio-12/static/js/main.16c52c1c.chunk.js.map",
+    "main.css": "/Portfolio-12/static/css/main.26eae77e.chunk.css",
+    "main.js": "/Portfolio-12/static/js/main.71504e14.chunk.js",
+    "main.js.map": "/Portfolio-12/static/js/main.71504e14.chunk.js.map",
     "runtime-main.js": "/Portfolio-12/static/js/runtime-main.3a90a582.js",
     "runtime-main.js.map": "/Portfolio-12/static/js/runtime-main.3a90a582.js.map",
-    "static/js/2.7c905e34.chunk.js": "/Portfolio-12/static/js/2.7c905e34.chunk.js",
-    "static/js/2.7c905e34.chunk.js.map": "/Portfolio-12/static/js/2.7c905e34.chunk.js.map",
+    "static/js/2.1b80a606.chunk.js": "/Portfolio-12/static/js/2.1b80a606.chunk.js",
+    "static/js/2.1b80a606.chunk.js.map": "/Portfolio-12/static/js/2.1b80a606.chunk.js.map",
     "index.html": "/Portfolio-12/index.html",
-    "precache-manifest.1b161a7c0ae491964ca70f598045c323.js": "/Portfolio-12/precache-manifest.1b161a7c0ae491964ca70f598045c323.js",
+    "precache-manifest.6c54f5f4740aa27d76e5249c770eb0ab.js": "/Portfolio-12/precache-manifest.6c54f5f4740aa27d76e5249c770eb0ab.js",
     "service-worker.js": "/Portfolio-12/service-worker.js",
-    "static/css/main.8657729f.chunk.css.map": "/Portfolio-12/static/css/main.8657729f.chunk.css.map",
-    "static/js/2.7c905e34.chunk.js.LICENSE.txt": "/Portfolio-12/static/js/2.7c905e34.chunk.js.LICENSE.txt",
+    "static/css/main.26eae77e.chunk.css.map": "/Portfolio-12/static/css/main.26eae77e.chunk.css.map",
+    "static/js/2.1b80a606.chunk.js.LICENSE.txt": "/Portfolio-12/static/js/2.1b80a606.chunk.js.LICENSE.txt",
     "static/media/BEACHINIT.png": "/Portfolio-12/static/media/BEACHINIT.fa505fa5.png",
+    "static/media/EMPLOYEEDIRECTORY.png": "/Portfolio-12/static/media/EMPLOYEEDIRECTORY.109af9fa.png",
+    "static/media/EZLIFE.png": "/Portfolio-12/static/media/EZLIFE.34157968.png",
     "static/media/OHMYGIFT.png": "/Portfolio-12/static/media/OHMYGIFT.6021308b.png",
     "static/media/POSTITGAMES.png": "/Portfolio-12/static/media/POSTITGAMES.ce982cc8.png",
     "static/media/background.webp": "/Portfolio-12/static/media/background.bf989778.webp",
@@ -39,8 +41,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3a90a582.js",
-    "static/js/2.7c905e34.chunk.js",
-    "static/css/main.8657729f.chunk.css",
-    "static/js/main.16c52c1c.chunk.js"
+    "static/js/2.1b80a606.chunk.js",
+    "static/css/main.26eae77e.chunk.css",
+    "static/js/main.71504e14.chunk.js"
   ]
 }
