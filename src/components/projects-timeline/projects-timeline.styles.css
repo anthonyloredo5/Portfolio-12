@@ -12,6 +12,10 @@
   color: #fff;
 }
 
+.color{
+  background-color: blanchedalmond;
+}
+
 .list-styles {
   list-style-type: circle;
 }

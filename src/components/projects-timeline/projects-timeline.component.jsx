@@ -7,6 +7,8 @@ import Card from "react-bootstrap/Card";
 import L_OHMYGIFT from "../../assets/img/projects/OHMYGIFT.png";
 import L_BEACHINIT from "../../assets/img/projects/BEACHINIT.png";
 import L_POSTITGAMES from "../../assets/img/projects/POSTITGAMES.png";
+import L_EMPLOYEEDIRECTORY from "../../assets/img/projects/EMPLOYEEDIRECTORY.png"
+import L_EZLIFE from "../../assets/img/projects/EZLIFE.png"
 
 // skills
 import L_REACT from "../../assets/img/skills/react.svg";
@@ -36,6 +38,171 @@ const TimeLine = () => {
       <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
       <Timeline>
         <Events>
+          {/* Project: ezlife */}
+          <ImageEvent
+            date="03/30/2021"
+            className="text-center"
+            text="ezlife"
+            src={L_EZLIFE}
+            alt="ezlife"
+          >
+            <div className="d-flex justify-content-between flex-column mt-1">
+              <div>
+                <Accordion>
+                  <Card>
+                    <Accordion.Toggle
+                      as={Card.Header}
+                      eventKey="0"
+                      className="p-2 text-center accordian-main"
+                    >
+                      PROJECT DETAILS
+                    </Accordion.Toggle>
+
+                    <Accordion.Collapse eventKey="0" className="text-left">
+                      <Card.Body>
+                        <strong>Description:</strong> Almost anyone can agree that getting your life organized can be a daunting task! There are so many things we are supposed to do and accomplish to be successful! Our app allows you to work towards your best self by tracking the things that matter to you, and making your life easier. Input your workouts, water intake, personal goals, and even write out your to-do list! And for some motivation, we provided you with some random quotes to boost your moral and get you going. The opportunities to become a better version of yourself are endless with ezlife. 
+                        <hr />
+                        <strong>Features:</strong>
+                        <ul className="list-styles pt-1">
+                          <li>Allows users to customize their very own personalized dashbaord</li>
+                          <li>Utilizes express sessions and mongoose noSQL database to store the users custom data</li>
+                          <li>Powered by React and Material UI</li>
+                          <li>Respoisive Design</li>
+                        </ul>
+                        <hr />
+                        <strong>Tech used:</strong>
+                        <div class="row">
+                          <div class="column">
+                            <ul>
+                              <li>
+                                <span className="p-2">
+                                  <Image
+                                    src={L_HTML5}
+                                    alt="HTML 5"
+                                    rounded
+                                    className="image-style m-1"
+                                  ></Image>{" "}
+                              HTML5
+                            </span>
+                              </li>
+                              <li>
+                                <span className="p-2">
+                                  <Image
+                                    src={L_CSS3}
+                                    alt="CSS 3"
+                                    rounded
+                                    className="image-style m-1"
+                                  ></Image>{" "}
+                              CSS3
+                            </span>
+                              </li>
+                              <li>
+                                <span className="p-2">
+                                  <Image
+                                    src={L_REACT}
+                                    alt="React"
+                                    rounded
+                                    className="image-style1 m-1"
+                                  ></Image>{" "}
+                              React
+                            </span>
+                              </li>
+                              <li>
+                                <span className="p-2">
+                                  <Image
+                                    src={L_MATERIALUI}
+                                    alt="Material-UI"
+                                    rounded
+                                    className="image-style1 m-1"
+                                  ></Image>{" "}
+                              Material-UI
+                            </span>
+                              </li>
+
+                            </ul>
+                          </div>
+                          <div class="column">
+                            <ul>
+                              <li>
+                                <span className="p-2">
+                                  <Image
+                                    src={L_MONGODB}
+                                    alt="MongoDB"
+                                    rounded
+                                    className="image-style m-1"
+                                  ></Image>{" "}
+                              MongoDB
+                            </span>
+                              </li>
+                              <li>
+                                <span className="p-2">
+                                  <Image
+                                    src={L_REACT_ROUTER}
+                                    alt="React Router"
+                                    rounded
+                                    className="image-style m-1"
+                                  ></Image>{" "}
+                              React Router
+                            </span>
+                              </li>
+                              <li>
+                                <span className="p-2">
+                                  <Image
+                                    src={L_NODE_JS}
+                                    alt="Node.js"
+                                    rounded
+                                    className="image-style m-1"
+                                  ></Image>{" "}
+                              Node.js
+                            </span>
+                              </li>
+                              <li>
+                                <span className="p-2">
+                                  <Image
+                                    src={L_EXPRESS}
+                                    alt="Express"
+                                    rounded
+                                    className="image-style m-1"
+                                  ></Image>{" "}
+                              Express
+                            </span>
+                              </li>
+                              <li>
+                                <span className="p-2">
+                                  <Image
+                                    src={L_HEROKU}
+                                    alt="Heroku"
+                                    rounded
+                                    className="image-style m-1"
+                                  ></Image>{" "}
+                              Heroku
+                            </span>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </Card.Body>
+                    </Accordion.Collapse>
+                  </Card>
+                </Accordion>
+              </div>
+              <div className="d-flex justify-content-between flex-nowrap text-center">
+                <UrlButton
+                  href="https://ezlife-17.herokuapp.com"
+                  target="_blank"
+                >
+                  SEE LIVE
+                </UrlButton>
+                <UrlButton
+                  href="https://github.com/anthonyloredo5/ezlife"
+                  target="_blank"
+                >
+                  SOURCE CODE
+                </UrlButton>
+              </div>
+            </div>
+          </ImageEvent>
+
           {/* Project: MERN App */}
           <ImageEvent
             date="02/20/2021"
@@ -203,6 +370,72 @@ const TimeLine = () => {
                 </UrlButton>
                 <UrlButton
                   href="https://github.com/anthonyloredo5/Post-It-Games"
+                  target="_blank"
+                >
+                  SOURCE CODE
+                </UrlButton>
+              </div>
+            </div>
+          </ImageEvent>
+
+          {/* Project: Employee Directory */}
+          <ImageEvent
+            date="02/24/2021"
+            className="text-center"
+            text="Employee Directory"
+            src={L_EMPLOYEEDIRECTORY}
+            alt="Employee Directory"
+          >
+            <div className="d-flex justify-content-between flex-column mt-1">
+              <div >
+                <Accordion >
+                  <Card  >
+                    <Accordion.Toggle
+                      as={Card.Header}
+                      eventKey="0"
+                      className="p-2 text-center accordian-main"
+                    >
+                      PROJECT DETAILS
+                    </Accordion.Toggle>
+
+                    <Accordion.Collapse eventKey="0" className="text-left">
+                      <Card.Body>
+                        <strong>Description:</strong>
+This web application pulls from a random user API to generate an employee directory with immediate filters based on user input, using react.
+                        <hr />
+                        <strong>Features:</strong>
+                        <ul className="list-styles pt-1">
+                          <li>Utilizes javascript tools and react to generate searchable employee data</li>
+                        </ul>
+                        <hr />
+                        <strong>Tech used:</strong>
+                        <ul>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_HTML5}
+                                alt="HTML 5"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              HTML5
+                            </span>
+                          </li>
+                        </ul>
+                      </Card.Body>
+                    </Accordion.Collapse>
+                  </Card>
+                </Accordion>
+              </div>
+              <div className="d-flex justify-content-between flex-nowrap text-center">
+                <UrlButton
+                  href="https://anthonyloredo5.github.io/EmployeeDirectory/"
+                  target="_blank"
+                >
+                  SEE LIVE
+                </UrlButton>
+                <UrlButton
+                  href="https://github.com/anthonyloredo5/EmployeeDirectory"
                   target="_blank"
                 >
                   SOURCE CODE

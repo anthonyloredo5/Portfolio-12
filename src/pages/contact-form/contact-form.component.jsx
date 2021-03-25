@@ -15,7 +15,7 @@ const ContactForm = () => {
             <div className="m-2">
               <a href="mailto:anthonyloredo5@gmail.com" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline-danger" title="anthonyloredo5@gmail.com">
-                  <i className="fas fa-envelope-square"></i> Email Me
+                  <i className="fas fa-envelope-square"></i> anthonyloredo5@gmail.com
                 </Button>
               </a>
             </div>
